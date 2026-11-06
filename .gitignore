@@ -1,0 +1,15 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Local student quiz history
+quiz_history.json
+
+# Virtual environments
+.venv/
+venv/
+
+# Local secrets
+.env
+.streamlit/secrets.toml
